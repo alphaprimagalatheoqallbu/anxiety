@@ -1,2 +1,2 @@
-# anxiety
-Anxiety - Proyek untuk Pengungkapan Kerentanan Aplikasi Web dengan Pendekatan Black Box
+# Anxiety - Proyek untuk Pengungkapan Kerentanan Aplikasi Web dengan Pendekatan Black Box
+Anxiety adalah proyek ambisius yang mengeksplorasi keamanan aplikasi web melalui metode Black Box. Dengan antarmuka pengguna PyQt yang intuitif, proyek ini memaparkan serangkaian fitur pengujian keamanan, seperti pengungkapan informasi, pembajakan klik, pengekstraksian tautan, pemeriksaan header HTTP, dan pengungkapan injeksi SQL. Melibatkan integrasi SQLMap, Anxiety bertujuan memberikan alat komprehensif untuk mengidentifikasi kerentanan keamanan aplikasi web.
